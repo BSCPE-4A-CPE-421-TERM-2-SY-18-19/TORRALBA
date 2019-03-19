@@ -1,0 +1,6 @@
+	HOW DID THE RASP PI WORK?
+
+     During the troubleshooting process, the charger used wasn't compatible with the respberry pi B since
+ the model B uses between 1000mA depending on what peripherals are connected. On the final troubleshoot,
+we connect it to the right and compatib;e charger and fortunately it is functional and still working.
+  		
