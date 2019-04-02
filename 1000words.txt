@@ -1,0 +1,73 @@
+Excitement. This was the feeling I had when I first heard the subject troubleshooting because firstly,
+I really wanted to be excellent in fixing computers and secondly, I like hardware more than software,
+I find it more enjoyable. As the semester started, I was a bit curious about the subject and kept on 
+asking who's going to handle it, can I learn a lot of things about it? Days have passed and we got our 
+schedule. Engr. Ralph Vincent Galao was our teacher that time and he introduced the subject, gave
+some ideas as to what it is all about, like troubleshooting is a way of finding a solution for a certain 
+issue of a computer. He told us that it is essential for us to learn troubleshooting as we are computer 
+engineering students. But after a few meetings before midterm days, he decided to end his teaching 
+profession and got a new job somewhere. And then Engr.Max Angelo Perin replaced him. 
+
+Before sir Galao left, he assigned us a topic to be reported individually. The topic was all about a 
+computer system. Each one of us should make a report about a certain part of a computer system.
+Mine was about the power supply. I was able to present my topic and was able to share my 
+knowledge about it. Engr. Perin was our teacher the time we started our reporting. 
+We have learned that PSU could be considered as one of the most essential 
+part of a PC as it is the source of power and that there are many indications for a faulty 
+power supply. We were able to learn its components; thought we should familiarize it in order for 
+us to fix the damage easily. We have learned that a PSU is composed of a cover, disk drive 
+connectors, motherboard connector, input voltage selector, power plug receptacle and power 
+supply fan. And also there should be some physical care and maintenance because if it gets dirty, it 
+could decrease the performance and break down sooner than expected. All we have to do is to make 
+sure the PSU is kept in a clean place, check it time to time to prevent massive build ups, and should 
+use a compressed air can if we clean it in order for the components not to get harmed. Checking a 
+software is another way to check up on a PSU. This allows us to spot temperature or performance 
+irregularities which lets us fix the problem faster. It could also show how much power is being 
+supplied to which components. After all the checking, we can now start our troubleshooting. 
+We should first check if the PSU is plugged into a cord and has a source of power. The 
+motherboard light and the input voltage selector should be checked. We have to make sure that 
+the connectors are properly connected to its designated parts. If it still doesn't work out, then we 
+have to replace the cord and try again, or we just consider replacing the PSU. Aside from learning 
+all about PSU, we were able to learn also the different parts of the computer system, its components 
+and its troubleshooting process. It's quite useful to learn all these stuff because atleast I can now 
+have the idea of fixing my own computer and not be able to spend money for it. 
+
+Midterm exam was given after all the reporting. And then we started our lesson for the final term. 
+To be totally honest, at the very beginning of the final term, I was always absent because I gave 
+my attention to the projects of the other subjects and for that, I apologize sir from the very bottom of 
+my heart. I really wish you were able to understand us that time because we were also so attached and 
+busy preparing for our proposal hearing. During those times that I was not around, I only asked my 
+classmates what they were doing, what their lesson all about and stuffs like that. I learned that they 
+were able to check and evaluate the functionality of a certain system unit and a Raspberry Pi. It was 
+a group work. Then on the next meeting, topics were given to be researched by group. I can barely 
+remember what those topics all about since we just researched it and then passed it to our instructor. 
+Bring-home quizzes was given and it was all about the functionality of a system unit and Rpi 
+being mentioned above. I was happy knowing that even though some of us did not focused on this 
+subject, still, Sir Max made the effort to share his knowledge and gave us consideration for giving 
+us those bring-home quizzes for us not to be stressed in studying. He is so considerate up to this time 
+and we really appreciate it. Maybe because he was a former student, he knew all out sentiments 
+being a student. (heheh) Moving on, upon hearing that this 1000words essay would serve as our final 
+exam, I was wondering what to say about my experience in this subject. I really can't forget the 
+excitement I felt when Sir Galao told us that we will be having the NCII assessment at the end of the 
+semester. I was really looking forward to that time because as I mentioned above, I am more into a 
+hardware field. But then maybe it's not yet our time to do it.There will be another time for that, 
+maybe, soon, if given a chance. Through this subject, we were also introduced to github. Thanks to 
+you Sir Max. We were able to get ideas, codes and stuffs like that through github. It will be of so much 
+hepl for us in the future. 
+
+To end this 1000words essay, (heheh), I would like to thank you Sir Max for handling us, for sharing 
+your knowledge, for being so considerate and for being an approachable instructor. You have that good 
+qualities a teacher should have. We respect you so much Sir. I hope you won't change. Continue to 
+be a good instructor and a friend to every student. We are lucky to have you as one of our teachers. 
+Once again, a big thanks Engr. Max Angelo Perin. :)
+
+
+
+
+
+
+
+
+
+
+
